@@ -163,7 +163,7 @@ franklin.forward(100)
 franklin.right(45)
 franklin.backward(70)
 franklin.left(50)
-franklin.forward(200)
+franklin.forward(210)
 ###############################################################################
 #
 # DONE: 6.
